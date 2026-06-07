@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Saidas geradas
+captures/
+samples/*.mp4
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
